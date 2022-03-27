@@ -4,7 +4,7 @@ import 'package:http/http.dart' show Client, Response;
 
 class ApiHelper {
   final String baseUrl = 'https://api.themoviedb.org/3';
-  final String apiKey = 'c9f41c68f12e06fc1cf9c62fc023f453';
+  final String apiKey = 'your-api-key';
 
   Client client = Client();
 
